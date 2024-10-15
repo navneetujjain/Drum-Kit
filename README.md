@@ -28,6 +28,6 @@ It is a simple drumkit developed using HTML, CSS, JS. Backbone of this project i
 To run the site on your local machine
 
 1. Download or clone the repository onto your machine.
-2. Extract the .zip file.
-3. Open .html file in your browser.
-5. Alternatively you can click on the following [Site Link](https://jsoto3000.gi/ "Site Link") to view.
+2. Extract the zip file.
+3. Open index.html file in your browser.
+5. Alternatively you can click on the following [Website Link](https://navneetujjain.github.io/Drum-Kit/ "Website Link") to view.
