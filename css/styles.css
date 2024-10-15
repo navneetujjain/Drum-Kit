@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-image: url("/drumpic.jpg");
+  background-image: url("../drumpic.jpg");
   background-size:100%;
 }
 
