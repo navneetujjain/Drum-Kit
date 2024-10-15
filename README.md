@@ -1,4 +1,3 @@
-# Developed as a part of Web Development Course
 # Simple Drum Kit using HTML,CSS,JS
 
 - [About this project](#about)
