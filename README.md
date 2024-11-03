@@ -8,6 +8,8 @@
 <a name="about"></a>
 ## About
 It is a simple drumkit developed using HTML, CSS, JS. Backbone of this project is DOM Manipulation.
+You can play the drum set using the keys - w , a , s , d , j , k , l
+Or you can also use the mouse click.
 
 <a name="features"></a>
 ## Features
